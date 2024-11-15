@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Car Price Prediction Project
 
 Project Overview
@@ -59,3 +60,6 @@ Requirements
 To run this project, you’ll need:
  • Python 3.x
  • Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn
+=======
+# Car-Price-Prediction-Project
+>>>>>>> origin/main
