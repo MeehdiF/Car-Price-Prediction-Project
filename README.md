@@ -1,7 +1,5 @@
-HEAD
-=======
 Car Price Prediction Project
-
+=======
 Project Overview
 
 This project involves building a Car Price Prediction model using Linear Regression. The goal is to predict the listed price of a car based on various features, such as model, year, mileage, and other characteristics. This project helps demonstrate my skills in data preprocessing, regression modeling, and evaluation of machine learning models.
