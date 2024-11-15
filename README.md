@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 =======
 Car Price Prediction Project
 
